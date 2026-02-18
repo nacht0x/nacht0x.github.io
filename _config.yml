@@ -1,0 +1,14 @@
+title: nacht0x
+description: writing from inside the machine
+url: "https://nacht0x.github.io"
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
